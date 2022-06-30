@@ -78,3 +78,7 @@ a:hover {
 #contact p:last-child {
     margin-top: 3rem;
 }
+
+#navbar .nav-items {
+    display: inline-block;
+}
